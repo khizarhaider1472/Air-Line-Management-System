@@ -1,0 +1,6 @@
+﻿  air.cpp
+C:\Users\Dell\Desktop\air\air\air.cpp(607,17): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Dell\Desktop\air\air\air.cpp(638,17): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Dell\Desktop\air\air\air.cpp(667,17): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Dell\Desktop\air\air\air.cpp(672,17): warning C4129: ' ': unrecognized character escape sequence
+  air.vcxproj -> C:\Users\Dell\Desktop\air\x64\Debug\air.exe
